@@ -1,4 +1,4 @@
-The fake chamber heater is a method of controlling your bed fans to regulate chamber temperatures. It is capable of maintaining a set temperature without the use of macros by treating the fans themselves as heaters.
+ The fake chamber heater is a method of controlling your bed fans to regulate chamber temperatures. It is capable of maintaining a set temperature without the use of macros by treating the fans themselves as heaters.
 
 ## How it works
 
